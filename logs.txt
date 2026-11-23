@@ -1,0 +1,12 @@
+[2026-11-22 20:16:52] [INFO] Servicio creado: Sala de reuniones - ID: S001
+[2026-11-22 20:16:52] [INFO] Servicio creado: Alquiler de computadores - ID: E001
+[2026-11-22 20:16:52] [INFO] Servicio creado: Asesoría profesional - ID: A001
+[2026-11-22 20:17:30] [INFO] Cliente registrado: Yesica Verona - ID: 1067282635
+[2026-11-22 20:18:55] [INFO] Cliente registrado: Ivan Jaramillo - ID: 1094876634
+[2026-11-22 20:20:39] [INFO] Reserva creada: R001 - Cliente: Yesica Verona
+[2026-11-22 20:20:52] [INFO] Reserva creada: R002 - Cliente: Ivan Jaramillo
+[2026-11-22 20:22:30] [INFO] Reserva procesada: R002 - Costo: $50,000.00
+[2026-11-22 20:22:34] [INFO] Reserva confirmada: R002
+[2026-11-22 20:22:40] [INFO] Reserva cancelada: R001
+[2026-11-22 20:22:56] [INFO] Reserva creada: R003 - Cliente: Yesica Verona
+[2026-11-22 20:23:06] [INFO] Reserva procesada: R003 - Costo: $80,000.00
